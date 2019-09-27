@@ -1,0 +1,196 @@
+[15-Mar-2018 08:34:58 America/Chicago] PHP Warning:  include_once(class/conexao.php): failed to open stream: No such file or directory in /home/vilan591/public_html/index.php on line 3
+[15-Mar-2018 08:34:58 America/Chicago] PHP Warning:  include_once(): Failed opening 'class/conexao.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/vilan591/public_html/index.php on line 3
+[15-Mar-2018 08:34:58 America/Chicago] PHP Warning:  include_once(class/nav.php): failed to open stream: No such file or directory in /home/vilan591/public_html/index.php on line 32
+[15-Mar-2018 08:34:58 America/Chicago] PHP Warning:  include_once(): Failed opening 'class/nav.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/vilan591/public_html/index.php on line 32
+[15-Mar-2018 08:34:58 America/Chicago] PHP Warning:  include_once(class/footer.php): failed to open stream: No such file or directory in /home/vilan591/public_html/index.php on line 60
+[15-Mar-2018 08:34:58 America/Chicago] PHP Warning:  include_once(): Failed opening 'class/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/vilan591/public_html/index.php on line 60
+[15-Mar-2018 08:38:06 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 08:38:06 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 08:49:04 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 08:49:04 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 08:49:05 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 08:49:05 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 08:49:06 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 08:49:06 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 08:49:06 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/sobre.php on line 8
+[15-Mar-2018 08:49:06 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vilan591/public_html/sobre.php on line 10
+[15-Mar-2018 08:49:08 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 08:49:08 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 08:49:08 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/servicos.php on line 5
+[15-Mar-2018 08:49:08 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vilan591/public_html/servicos.php on line 7
+[15-Mar-2018 08:49:10 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 08:49:10 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 08:49:10 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/pesquisa.php on line 8
+[15-Mar-2018 08:49:10 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vilan591/public_html/pesquisa.php on line 10
+[15-Mar-2018 08:49:10 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/pesquisa.php on line 45
+[15-Mar-2018 08:49:10 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vilan591/public_html/pesquisa.php on line 47
+[15-Mar-2018 08:49:12 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 08:49:12 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 08:49:12 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/contato.php on line 26
+[15-Mar-2018 08:49:12 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vilan591/public_html/contato.php on line 27
+[15-Mar-2018 09:03:42 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:03:42 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:04:24 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:04:24 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:04:26 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:04:26 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:04:26 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/sobre.php on line 8
+[15-Mar-2018 09:04:26 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vilan591/public_html/sobre.php on line 10
+[15-Mar-2018 09:04:29 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:04:29 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:04:34 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:04:34 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:04:34 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/sobre.php on line 8
+[15-Mar-2018 09:04:34 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vilan591/public_html/sobre.php on line 10
+[15-Mar-2018 09:04:44 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:04:44 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:04:44 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/sobre.php on line 8
+[15-Mar-2018 09:04:44 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vilan591/public_html/sobre.php on line 10
+[15-Mar-2018 09:04:46 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:04:46 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:04:46 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/servicos.php on line 5
+[15-Mar-2018 09:04:46 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vilan591/public_html/servicos.php on line 7
+[15-Mar-2018 09:04:47 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:04:47 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:04:47 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/pesquisa.php on line 8
+[15-Mar-2018 09:04:47 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vilan591/public_html/pesquisa.php on line 10
+[15-Mar-2018 09:04:47 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/pesquisa.php on line 45
+[15-Mar-2018 09:04:47 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vilan591/public_html/pesquisa.php on line 47
+[15-Mar-2018 09:04:49 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:04:49 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:04:49 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/contato.php on line 26
+[15-Mar-2018 09:04:49 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vilan591/public_html/contato.php on line 27
+[15-Mar-2018 09:15:47 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:15:47 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:16:04 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:16:04 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:16:07 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:16:07 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:17:00 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vnina'@'br490.hostgator.com.br' (using password: YES) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:17:00 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:24:38 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'vilan591_admin'@'216.172.172.230' to database 'vilan591_vilanina' in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:24:38 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:25:17 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'vilan591_admin'@'216.172.172.230' to database 'vilan591_vilanina' in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:25:17 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:25:19 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'vilan591_admin'@'216.172.172.230' to database 'vilan591_vilanina' in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:25:19 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:25:23 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'vilan591_admin'@'216.172.172.230' to database 'vilan591_vilanina' in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:25:23 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:26:34 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'https://br490.hostgator.com.br:2083' (0) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:26:34 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:26:48 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'br490.hostgator.com.br:2083' (0) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:26:48 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:27:14 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'vilan591_admin'@'216.172.172.230' to database 'vilan591_vilanina' in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:27:14 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:29:13 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'vilan591_admin'@'216.172.172.230' to database 'vilan591_vilanina' in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:29:13 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:29:28 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vilan591'@'br490.hostgator.com.br' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:29:28 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:29:32 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vilan591'@'br490.hostgator.com.br' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:29:32 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:29:34 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vilan591'@'br490.hostgator.com.br' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:29:34 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:29:47 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vilan591'@'br490.hostgator.com.br' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:29:47 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:30:04 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'br490.hostgator.com.br' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:30:04 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:30:18 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'br490.hostgator.com.br' (using password: YES) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:30:18 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:35:33 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'admin'@'br490.hostgator.com.br' (using password: YES) in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:35:33 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:37:40 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'vilan591_admin'@'216.172.172.230' to database 'vilanina' in /home/vilan591/public_html/class/conexao.php on line 8
+[15-Mar-2018 09:37:40 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/class/conexao.php on line 10
+[15-Mar-2018 09:40:38 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 17
+[15-Mar-2018 09:41:46 America/Chicago] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:41:46 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:41:46 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:41:46 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:41:46 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/vilan591/public_html/class/conexao.php on line 22
+[15-Mar-2018 09:43:02 America/Chicago] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:43:02 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:43:02 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:43:02 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:43:02 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/vilan591/public_html/class/conexao.php on line 22
+[15-Mar-2018 09:43:08 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 17
+[15-Mar-2018 09:46:07 America/Chicago] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:46:07 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:46:07 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:46:07 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:46:07 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:46:07 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:46:07 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:46:07 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:46:07 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:46:07 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:46:07 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:46:07 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:46:07 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 22
+[15-Mar-2018 09:46:07 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 22
+[15-Mar-2018 09:46:07 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 22
+[15-Mar-2018 09:46:45 America/Chicago] PHP Warning:  Unterminated comment starting line 17 in /home/vilan591/public_html/class/conexao.php on line 17
+[15-Mar-2018 09:47:16 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'vilan591_admin'@'216.172.172.230' to database 'vilan591_vilanina' in /home/vilan591/public_html/class/conexao.php on line 17
+[15-Mar-2018 09:47:16 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:47:16 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:47:16 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:47:16 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:47:16 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:47:16 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:47:16 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:47:16 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:47:16 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:47:16 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:47:16 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:47:16 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:48:35 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'vilan591_vnina'@'br490.hostgator.com.br' to database 'vilan591_vilanina' in /home/vilan591/public_html/class/conexao.php on line 17
+[15-Mar-2018 09:48:35 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:48:36 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:48:36 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:48:36 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:48:36 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:48:36 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:48:36 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:48:36 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:48:36 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:48:36 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:48:36 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:48:36 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:49:24 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'vilan591_vnina'@'br490.hostgator.com.br' to database 'vilan591_vilanina' in /home/vilan591/public_html/class/conexao.php on line 17
+[15-Mar-2018 09:49:24 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:49:24 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:49:24 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:49:24 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:49:24 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:49:24 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:49:24 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:49:24 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:49:24 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:49:24 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:49:24 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:49:24 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:50:02 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'vilan591_vnina'@'br490.hostgator.com.br' to database 'vilan591_vilanina' in /home/vilan591/public_html/class/conexao.php on line 17
+[15-Mar-2018 09:50:02 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:50:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:50:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:50:02 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:50:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:50:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:50:02 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:50:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:50:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:50:02 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:50:02 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:50:02 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:50:24 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'vilan591_vnina'@'br490.hostgator.com.br' to database 'vilan591_vilanina' in /home/vilan591/public_html/class/conexao.php on line 17
+[15-Mar-2018 09:51:57 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'vilan591_vnina'@'localhost' to database 'vilan591_vilanina' in /home/vilan591/public_html/class/conexao.php on line 17
+[15-Mar-2018 09:54:57 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:54:57 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:54:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 18
+[15-Mar-2018 09:54:57 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:54:57 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:54:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 19
+[15-Mar-2018 09:54:57 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:54:57 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:54:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 20
+[15-Mar-2018 09:54:57 America/Chicago] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:54:57 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'vilan591'@'localhost' (using password: NO) in /home/vilan591/public_html/class/conexao.php on line 21
+[15-Mar-2018 09:54:57 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/vilan591/public_html/class/conexao.php on line 21

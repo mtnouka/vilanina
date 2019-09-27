@@ -1,0 +1,5 @@
+[15-Mar-2018 11:33:02 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vilan591/public_html/controle/class/conexao.php on line 8
+[15-Mar-2018 11:33:02 America/Chicago] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/controle/class/conexao.php on line 10
+[15-Mar-2018 11:33:02 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vilan591/public_html/controle/class/valida_login.php on line 10
+[15-Mar-2018 11:33:02 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/vilan591/public_html/controle/class/valida_login.php on line 11
+[15-Mar-2018 11:33:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vilan591/public_html/controle/class/conexao.php:8) in /home/vilan591/public_html/controle/class/valida_login.php on line 15

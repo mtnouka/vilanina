@@ -1,0 +1,206 @@
+.fonte{
+    font-family: Myriad Pro;
+}
+
+/*navegação*/
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+    color: white;
+}
+.navbar-light .navbar-toggler {
+    color: rgba(0, 0, 0, 0.5);
+    border-color: rgba(0,0,0,.1);
+    background: white;
+}
+.naveg{
+    border-bottom: solid 15px;
+    border-color: white;
+    background: #514f24;
+    height: auto;
+}
+.naveg a{
+    color: white;
+    font-size: 20px;
+}
+
+/*body*/
+.corpo{
+    background: rgb(252,255,244);
+    background: -moz-radial-gradient(center, ellipse cover, rgba(252,255,244,1) 0%, rgba(223,229,215,1) 38%, rgba(179,190,173,1) 100%);
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(252,255,244,1) 0%,rgba(223,229,215,1) 38%,rgba(179,190,173,1) 100%);
+    background: radial-gradient(ellipse at center, rgba(252,255,244,1) 0%,rgba(223,229,215,1) 38%,rgba(179,190,173,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfff4', endColorstr='#b3bead',GradientType=1 );
+    margin: 0;
+}
+#conteudo {
+    background-size: 100%;
+    display:block;
+    padding:0 !important;
+    margin:0;
+}
+#logo {
+    display:block;
+    margin:0 auto;
+    width:150px;
+}
+.conteudo{
+    min-height:400px;
+    max-height: max-content;
+}
+
+/*sobre*/
+.espaçamento-top{
+    padding-top: 13px;
+}
+.destaque{
+    background: #514f24;
+    padding-bottom: 0;
+    padding-top: 0;
+    padding-left: 35px;
+    padding-right: 35px;
+    border: 0;
+}
+.texto-empresa{
+    padding-top: 20px;
+}
+.show{
+    height: 307px;
+    width: 500px;
+    padding-top: 30px;
+}
+.carousel-inner > .item > img {
+    position: relative;
+    min-width: 100%;
+    top: 0;
+    left: 0;
+    height: 200px;
+}
+
+/*contato*/
+.control-label {
+    padding-top: 7px;
+    margin-bottom: 0px;
+    text-align: right;
+}
+.label{
+    padding-top: 5px;
+    padding-right: 10px;
+}
+#msg{
+    float: right;
+    float: top;
+}
+/*servico*/
+.serv{
+    margin-top: 20px;
+}
+.serv a{
+    text-decoration: none;
+    color: black;
+}
+.nomeser{
+    height: 15px;
+    width: 40px;
+}
+.casa{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#serv{
+    margin-bottom: 10px;
+}
+.carregando{
+    color: #ff0000;
+    display: none;
+}
+.scroll { 
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: 400px;
+    white-space:nowrap;
+    width: 98%;
+} 
+.titulo{
+    border-radius: 20px;
+    width: 102.4%;
+    background: #514f24;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    text-align: center;
+    color: white;
+    margin-bottom: 10px;
+    /*box-shadow: #7F8C8D 30px;*/
+}
+/*rodapé*/
+.footer {
+    background: #514f24;
+    height: auto;
+    position: relative;
+    width: 100%;
+    border-top: 15px solid white;
+}
+.redes ul li a{
+    float: left;
+}
+.redes1{
+    text-align: left;
+    padding-top: 8px;
+}
+.copyright{
+    width: 100%;
+    text-align: center;
+    color: white;
+    border-top: 1px solid #DDDDDD;
+    padding-top: 5px;
+}
+.footer ul {
+    font-size: 13px;
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    margin-top: 15px;
+    color: #7F8C8D;
+}
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+.social li {
+    background: none repeat scroll 0 0 white;
+    border: 2px solid white;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -o-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+    float: left;
+    height: 36px;
+    line-height: 36px;
+    margin: 0 8px 0 0;
+    padding: 0;
+    text-align: center;
+    width: 36px;
+    transition: all 0.5s ease 0s;
+    -moz-transition: all 0.5s ease 0s;
+    -webkit-transition: all 0.5s ease 0s;
+    -ms-transition: all 0.5s ease 0s;
+    -o-transition: all 0.5s ease 0s;
+}
+.social li:hover {
+    transform: scale(1.15) rotate(360deg);
+    -webkit-transform: scale(1.1) rotate(360deg);
+    -moz-transform: scale(1.1) rotate(360deg);
+    -ms-transform: scale(1.1) rotate(360deg);
+    -o-transform: scale(1.1) rotate(360deg);
+}
+.social li a {
+    color: black;
+}
+.social li:hover {
+    border: 2px solid #a3ca72;
+    background: #a3ca72;
+}
+.social li a i {
+    font-size: 16px;
+    margin: 8px 0 0 7px;
+    color: black !important;
+}
