@@ -27,7 +27,7 @@ $content = new SendGrid\Content("text/html", "Contato pelo Cliente " . $nome . "
 $mail = new SendGrid\Mail($from, $subject, $to, $content);
 
 //Necessário inserir a chave
-$apiKey = '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';
+$apiKey = 'your api key here';
 $sg = new \SendGrid($apiKey);
 
 $response = $sg->client->mail()->send()->post($mail);
