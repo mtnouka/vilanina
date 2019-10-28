@@ -20,9 +20,9 @@ $conest = mysqli_query($conn, $queryest);
 $city = mysqli_fetch_assoc($concid);
 $esta = mysqli_fetch_assoc($conest);
 
-$from = new SendGrid\Email(null, "nouke.x8@gmail.com");
+$from = new SendGrid\Email(null, "from");
 $subject = "Contato feito por " . $nome . " a partir do site";
-$to = new SendGrid\Email(null, "mtheus.csouza@gmail.com");
+$to = new SendGrid\Email(null, "to");
 $content = new SendGrid\Content("text/html", "Contato pelo Cliente " . $nome . ", <br><br>" . $mensagem . "<br><br>Email: " . $email . "<br>Telefone: " . $telefone . "<br>" . $city['nome'] . " - " . $esta['uf']);
 $mail = new SendGrid\Mail($from, $subject, $to, $content);
 
